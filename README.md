@@ -11,6 +11,6 @@ Aluno: Danilo de Moura Estevam
 Status: Finalizado.
 
 ## Tecnologia e práticas utilizadas
----
+
 - Python
 - Arquitetura MVC (Model View Controller)
