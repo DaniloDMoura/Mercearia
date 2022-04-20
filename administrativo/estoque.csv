@@ -1,0 +1,97 @@
+1;arroz;23.99;Alimentos;996
+2;feijão;8.69;Alimentos;998
+3;macarrão;13.99;Alimentos;994
+4;óleo;9.99;Alimentos;991
+5;azeite;23.19;Alimentos;995
+6;tempero pronto;5.29;Alimentos;992
+7;maionese;8.45;Alimentos;1000
+8;extrato de tomate;1.99;Alimentos;1000
+9;farinha de trigo;5.69;Alimentos;1000
+10;café;16.49;Alimentos;1000
+11;chá matte;6.45;Alimentos;1000
+12;leite;4.69;Alimentos;1000
+13;peito de frango congelado;25.9;Alimentos congelados;1000
+14;lasanha;15.99;Alimentos congelados;1000
+15;pizza;16.99;Alimentos congelados;1000
+16;salsicha;12.99;Alimentos congelados;1000
+17;nuggets de queijo;12.99;Alimentos congelados;1000
+18;espetinho de carne;36.96;Alimentos congelados;1000
+19;hambúrguer;21.99;Alimentos congelados;1000
+20;linguiça;26.99;Alimentos congelados;1000
+21;pão de queijo;16.99;Alimentos congelados;1000
+22;batata palito;19.99;Alimentos congelados;1000
+23;pratos prontos;24.88;Alimentos congelados;1000
+24;manteiga;12.49;Frios;1000
+25;margarina;7.99;Frios;1000
+26;requeijão;8.89;Frios;1000
+27;yakult;10.49;Frios;1000
+28;queijo mussarela fatiado;9.97;Frios;1000
+29;presunto fatiado;11.68;Frios;1000
+30;apresuntado fatiado;9.1;Frios;1000
+31;mortadela defumada fatiada;6.49;Frios;1000
+32;peito de peru defumado fatiado;10.99;Frios;1000
+33;banana;3.59;Frutas;1000
+34;melancia;22.58;Frutas;1000
+35;abacaxi;12.99;Frutas;1000
+36;manga;3.99;Frutas;1000
+37;maçã;7.49;Frutas;100
+38;batata;7.99;Legumes;1000
+39;cenoura;7.14;Legumes;1000
+40;pimentão;6.22;Legumes;1000
+41;beterraba;2.64;Legumes;1000
+42;couve;7.99;Verduras;1000
+43;alface;5.99;Verduras;1000
+44;couve-flor;6.99;Verduras;1000
+45;repolho;8.09;Verduras;1000
+46;alho;11.79;Temperos;1000
+47;cebola;3.49;Temperos;1000
+48;cebolinha;5.99;Temperos;1000
+49;salsa;5.99;Temperos;1000
+50;coentro;5.99;Temperos;1000
+51;pão de forma;7.39;Padaria;1000
+52;pão de cachorro quente;7.99;Padaria;1000
+53;pão de hambúrguer;11.99;Padaria;1000
+54;bisnaguinha;8.69;Padaria;1000
+55;biscoitos;5.39;Padaria;1000
+56;massa pronta para bolo;5.19;Padaria;1000
+57;broinha de milho;10.29;Padaria;1000
+58;pães de queijo;12.99;Padaria;1000
+59;pão frances;0.89;Padaria;1000
+60;água mineral;2.69;Bebidas;1000
+61;chás prontos;6.89;Bebidas;1000
+62;iogurtes;2.39;Bebidas;1000
+63;suco;10.99;Bebidas;1000
+64;refrigerante;4.99;Bebidas;1000
+65;vitamina;9.39;Bebidas;1000
+66;achocolatado;5.79;Bebidas;1000
+67;cerveja;3.39;Bebidas;300
+68;vinho;79.99;Bebidas;1000
+69;vodca;74.99;Bebidas;1000
+70;água sanitária;6.29;Produtos de limpeza;1000
+71;desinfetante;6.79;Produtos de limpeza;1000
+72;detergente;2.39;Produtos de limpeza;1000
+73;esponja de aço;2.59;Produtos de limpeza;1000
+74;sabão em pó;23.49;Produtos de limpeza;1000
+75;sabão em barra;13.99;Produtos de limpeza;1000
+76;amaciante;19.29;Produtos de limpeza;1000
+77;alvejante;4.25;Produtos de limpeza;1000
+78;vassoura;31.79;Produtos de limpeza;1000
+79;rodo;24.9;Produtos de limpeza;1000
+80;pá;37.79;Produtos de limpeza;1000
+81;pano de chão;15.99;Produtos de limpeza;1000
+82;pano de prato;5.8;Produtos de limpeza;1000
+83;luvas de borracha;5.59;Produtos de limpeza;1000
+84;shampoo;9.69;Higiene pessoal;1000
+85;condicionador;22.79;Higiene pessoal;1000
+86;creme de pentear;26.99;Higiene pessoal;1000
+87;escova de cabelo;16.9;Higiene pessoal;1000
+88;pente;37.9;Higiene pessoal;1000
+89;desodorante;17.99;Higiene pessoal;1000
+90;lâmina de barbear;20.29;Higiene pessoal;1000
+91;creme dental;3.59;Higiene pessoal;1000
+92;escova de dentes;22.79;Higiene pessoal;1000
+93;enxaguante bucal;17.79;Higiene pessoal;1000
+94;creme hidratante para o corpo;24.99;Higiene pessoal;1000
+95;sabonete;2.89;Higiene pessoal;1000
+96;papel higiênico;20.29;Higiene pessoal;1000
+97;absorvente;16.86;Higiene pessoal;200
